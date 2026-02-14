@@ -1,0 +1,6 @@
+fastapi[all]
+uvicorn
+sqlmodel
+python-multipart
+PyJWT
+passlib
